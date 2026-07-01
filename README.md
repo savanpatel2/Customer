@@ -1,4 +1,4 @@
-Features
+# Features
 
 -->Customer Segmentation: Visualizations mapping customer demographics, locations, and regional distribution.
 
@@ -8,13 +8,13 @@ Features
 
 -->Custom UI/UX: Built with a custom Power BI theme (CY26SU05) and rich visual assets for a clean, professional layout.
 
-Prerequisites
+# Prerequisites
 
 -->Microsoft Power BI Desktop (Latest version recommended)
 
 -->Access to the underlying CRM/customer dataset (e.g., Python-cleaned CSV, SQL database, or Excel file)
 
-Installation & Setup
+# Installation & Setup
 
 -->Clone this repository or download the cutomer.pbix file directly.
 
@@ -28,5 +28,5 @@ Installation & Setup
 
 -->Save your progress for future use.
 
-Repository Structure
+# Repository Structure
 -->cutomer.pbix: The core Power BI file containing the data model, relationships, DAX measures, layout, and visual configurations.
